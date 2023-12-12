@@ -1,8 +1,8 @@
 {
-  "name": "aula-node",
+  "name": "node_videos",
   "version": "1.0.0",
-  "description": "",
-  "main": "Server.js",
+  "description": "primeira api em nodejs",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
